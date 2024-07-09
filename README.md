@@ -1,8 +1,8 @@
 # Projek Pemrograman Logic dan Semantic
 
-## Judul 
+## Judul
 
-Judul Projek ini ialah **Implementasi Breadth-first search pada Situs Pencarian Lokasi Wisata Terdekat Menggunakan Node Js**
+Judul Projek ini ialah **Implementasi Breadth-first Search pada Situs Pencarian Lokasi Wisata Terdekat Menggunakan Node Js**
 
 ## Identitas
 
@@ -12,20 +12,21 @@ Judul Projek ini ialah **Implementasi Breadth-first search pada Situs Pencarian 
 
 ## Dosen
 
-| Nama                  | Dosen Pengampu         | 
-| --------------------- | ---------------------  | 
-| Rizki Wahyudi. M.Kom  | PROLOG                 |
-
+| Nama                 | Dosen Pengampu |
+| -------------------- | -------------- |
+| Rizki Wahyudi. M.Kom | PROLOG         |
 
 ## Laporan Jurnal
 
 ### Draft Template
 
-[Template](https://docs.google.com/document/d/1_AjvVIjFQEInB6xcnNfd3FBJsL_Rp6SL/edit)
+Menggunakan Template dari JUTISI
+
+<!-- [Template](https://docs.google.com/document/d/1_AjvVIjFQEInB6xcnNfd3FBJsL_Rp6SL/edit) -->
 
 ### Draft Jurnal Laporan
 
-[Draft Laporan](https://docs.google.com/document/d/18wNDBDgeFNPWhu_Q-ajUPPmz7PYeY7CY/edit?usp=drive_link&ouid=101389216867143493338&rtpof=true&sd=true)
+<!-- [Draft Laporan](https://docs.google.com/document/d/18wNDBDgeFNPWhu_Q-ajUPPmz7PYeY7CY/edit?usp=drive_link&ouid=101389216867143493338&rtpof=true&sd=true) -->
 
 ### Rujukan
 
@@ -39,11 +40,18 @@ Judul Projek ini ialah **Implementasi Breadth-first search pada Situs Pencarian 
 
 - Laptop HP 14 inci
 - Endeavour OS (Linux)
--
+- Visual Studio Code
 
 ### Spesifikasi Teknologi
 
-- Nodejs versi 20
-- Vuejs versi 3
-- JSON (Penampung Data)
-- Google Map API
+| Teknologi | Kegunaan                                              |
+| --------- | ----------------------------------------------------- |
+| Nodejs    | Javascript Runtime                                    |
+| VueJs     | Frontend GUI untuk menginput lokasi                   |
+| JSON      | Penampung data tempat wisata, bisa cek di folder data |
+| Haversine | Package untuk menghitung jarak lokasi                 |
+
+
+### Rujukan Data
+
+[Data Fakta](https://docs.google.com/spreadsheets/d/19kF4eDetkIIGMc6CVbGgXoiR0LHuV2DQn9jxpIjRS7E/edit?usp=sharing)
