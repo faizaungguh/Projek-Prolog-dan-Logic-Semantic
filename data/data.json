@@ -11,15 +11,21 @@
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Museum BRI",
+        "coordinate": "-7.423705388571167, 109.22563684787822",
+        "link": "https://maps.app.goo.gl/P99zyrDaudNE3LK56"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Taman Kober",
+        "coordinate": "-7.412261069022674, 109.22193289021413",
+        "link": "https://maps.app.goo.gl/b9MXnqi9SiGXB5228"
+      }, 
+      {
+        "id": 4,
+        "nama": "Rasam Park",
+        "coordinate": "-7.415126691566616, 109.22105546907804",
+        "link": "https://maps.app.goo.gl/wpx8qgxDYiDfqGdA8"
       }
     ]
   },
@@ -29,21 +35,33 @@
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Alun-alun Purwokerto",
+        "coordinate": "-7.424281449995401, 109.23020451534448",
+        "link": "https://maps.app.goo.gl/8QrUPnFG1jQB47Rv7"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Jembatan Gerilya Sudirman",
+        "coordinate": "-7.426220462017397, 109.23346470741153",
+        "link": "https://maps.app.goo.gl/q4Hf3ZvmgatrsaZW9"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Taman Pangripta",
+        "coordinate": "-7.423760455463094, 109.23861465199174",
+        "link": "https://maps.app.goo.gl/XvGtpC5KnJsFHyww6"
+      },
+      {
+        "id": 4,
+        "nama": "Tugu Pembangunan",
+        "coordinate": "-7.421476820883332, 109.23768482883611",
+        "link": "https://maps.app.goo.gl/JwnRRXB5buUn6XZ19"
+      },
+      {
+        "id": 5,
+        "nama": "Menara Teratai",
+        "coordinate": "-7.431291448203357, 109.23268757486963",
+        "link": "https://maps.app.goo.gl/7PMg6nz5o6Xx1bFQA"
       }
     ]
   },
@@ -53,21 +71,33 @@
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Pool Villa",
+        "coordinate": "-7.451431942232573, 109.20936691482302",
+        "link": "https://maps.app.goo.gl/2NS7fFM3SXHDsc6o7"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Bukit Gadog",
+        "coordinate": "-7.3521297888777335, 109.17711132176865",
+        "link": "https://maps.app.goo.gl/tDecbpRBuxsFAW5q6"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Wisata Alam Kedung Jayub",
+        "coordinate": "-7.42843742634123, 109.19967601984946",
+        "link": "https://maps.app.goo.gl/KHyCQjiTNmCQ93dAA"
+      },
+      {
+        "id": 4,
+        "nama": "Desa Wisata Tamansari",
+        "coordinate": "-7.433562390884683, 109.18937082130273",
+        "link": "https://maps.app.goo.gl/o4kXXyzs6PjE8rVF8"
+      },
+      {
+        "id": 5,
+        "nama": "Curug Cidadap",
+        "coordinate": "-7.316115321725495, 109.18205109406671",
+        "link": "https://maps.app.goo.gl/ZCy2KopPR1psjWqf9"
       }
     ]
   },
@@ -77,21 +107,33 @@
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Wisata Alam Baturaden",
+        "coordinate": "-7.297714992203012, 109.22136054387057",
+        "link": "https://maps.app.goo.gl/eFqfhjNJLJyBDRcp9"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Taman Langit",
+        "coordinate": "-7.352709082417867, 109.22754035347903",
+        "link": "https://maps.app.goo.gl/ALT2tKY5gjBTFkhGA"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Baturaden Adventure Forest",
+        "coordinate": "-7.305887917473235, 109.24264655474414",
+        "link": "https://maps.app.goo.gl/7i2EuaWJ9jH23EPa9"
+      },
+      {
+        "id": 4,
+        "nama": "Kebun Raya Baturaden",
+        "coordinate": "-7.303674431630686, 109.23509345411159",
+        "link": "https://maps.app.goo.gl/F4v7XRJbGhJap1L9A"
+      },
+      {
+        "id": 5,
+        "nama": "Telaga Sunyi",
+        "coordinate": "-7.3033338943743455, 109.24384818439022",
+        "link": "https://maps.app.goo.gl/B3mJrpog6xWyngFk8"
       }
     ]
   },
@@ -101,549 +143,645 @@
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Kidung Kampoengku",
+        "coordinate": "-7.375662764963497, 109.22147624608907",
+        "link": "https://maps.app.goo.gl/3uzJeWGUfMatKbNu7"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Penganten",
+        "coordinate": "-7.303006980541326, 109.20355068331331",
+        "link": "https://maps.app.goo.gl/7iKuDnsMK4vo7Cn9A"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Pondok Lengki",
+        "coordinate": "-7.300497578235894, 109.18320014290475",
+        "link": "https://maps.app.goo.gl/w1vjhdKkdtAqmajF6"
+      },
+      {
+        "id": 4,
+        "nama": "Curug Lima",
+        "coordinate": "-7.313442209312864, 109.18402225877071",
+        "link": "https://maps.app.goo.gl/pz5W1eusc6RwWQuK9"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 6,
+    "kecamatan": "Sokaraja",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Wisata Siton Banjaranyar",
+        "coordinate": "-7.416835882285958, 109.32548198673227",
+        "link": "https://maps.app.goo.gl/fUarvovVYkx3TFzh8"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Rumah Batik Antojamil",
+        "coordinate": "-7.303006980541326, 109.20355068331331",
+        "link": "https://maps.app.goo.gl/dcea9rieHftFbE5S9"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Soto Sutri",
+        "coordinate": "-7.456260437608666, 109.2874091596694",
+        "link": "https://maps.app.goo.gl/S2sFaPFEzEtBYbrf7"
+      },
+      {
+        "id": 4,
+        "nama": "Pusat Oleh-oleh Getuk Goreng Eka",
+        "coordinate": "-7.4574151155007256, 109.28886899762566",
+        "link": "https://maps.app.goo.gl/cMA4debDxAg4zhEV9"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 7,
+    "kecamatan": "Sumbang",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Taman Panemon",
+        "coordinate": "-7.377583183667042, 109.26552210752263",
+        "link": "https://maps.app.goo.gl/xBW5pY93a6vzAhV96"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Ceheng",
+        "coordinate": "-7.320825711705502, 109.27354306536152",
+        "link": "https://maps.app.goo.gl/avKhSJMzGjsVRseM7"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Embung Banteran",
+        "coordinate": "-7.351961390578203, 109.26361587746615",
+        "link": "https://maps.app.goo.gl/bQDgcmZ3Fj1Ai42u5"
+      },
+      {
+        "id": 4,
+        "nama": "Taman Hias Rembangmas",
+        "coordinate": "-7.365096943566809, 109.28044728227039",
+        "link": "https://maps.app.goo.gl/ZbrjCViuRWv6DKUK6"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 8,
+    "kecamatan": "Kembaran",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Taman Impean",
+        "coordinate": "-7.40263302043985, 109.28318734484634",
+        "link": "https://maps.app.goo.gl/K7QJCNheX1CeonsQ7"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Langit Senja Cafe",
+        "coordinate": "-7.407998314277065, 109.27872375135918",
+        "link": "https://maps.app.goo.gl/ge9MN9LoJitfsjWy6"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Gelora Purba Wasesa",
+        "coordinate": "-7.4060441262842955, 109.29244414348176",
+        "link": "https://maps.app.goo.gl/V5PTY3zAvmrQPt6Q6"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 9,
+    "kecamatan": "Kalibagor",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Embung Songgom",
+        "coordinate": "-7.487917147805783, 109.30641234061912",
+        "link": "https://maps.app.goo.gl/aFRJS1qAXqpRLJw3A"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Goa Maria",
+        "coordinate": "-7.494979402633577, 109.30698216143355",
+        "link": "https://maps.app.goo.gl/UMnEvHsogtponPwC7"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Bumi Perkemahan Kendalisada",
+        "coordinate": "-7.4888443336296024, 109.29686055141474",
+        "link": "https://maps.app.goo.gl/5jndJ5xTZNG1hkGb8"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 10,
+    "kecamatan": "Banyumas",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Galeri Batik Pringmas",
+        "coordinate": "-7.513033581822938, 109.26316429577278",
+        "link": "https://maps.app.goo.gl/TvJuSr7GFt3QozmF9"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Alun-alun Banyumas",
+        "coordinate": "-7.51689920604775, 109.29393336945525",
+        "link": "https://maps.app.goo.gl/pbmRfQCK2nTQTxTx5"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Museum Wayang",
+        "coordinate": "-7.514671731332787, 109.29446410755575",
+        "link": "https://maps.app.goo.gl/hzPMrAKbhxGu3Gqv5"
+      },
+      {
+        "id": 4,
+        "nama": "Banyumas Kota Lama",
+        "coordinate": "-7.513828220562066, 109.2940075147509",
+        "link": "https://maps.app.goo.gl/xrzBkr9h9JfHjzha7"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 11,
+    "kecamatan": "Somagede",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Dawa",
+        "coordinate": "-7.5435425170513755, 109.30940073398439",
+        "link": "https://maps.app.goo.gl/cGohhkBzHhVEGdNY7"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Embung Somagede",
+        "coordinate": "-7.5230876596943, 109.3287059525132",
+        "link": "https://maps.app.goo.gl/kSN1onkV3ccouobe7"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Objek Wisata Watu Lintang",
+        "coordinate": "-7.539177440171865, 109.33351749536757",
+        "link": "https://maps.app.goo.gl/R64NQGCdhq3rxWJF8"
+      },
+      {
+        "id": 4,
+        "nama": "Wisata Banyu Entas",
+        "coordinate": "-7.541057098179457, 109.3214042218242",
+        "link": "https://maps.app.goo.gl/LBn5Uh6fBY8sf5DB9"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 12,
+    "kecamatan": "Kebasen",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Song",
+        "coordinate": "-7.539036646308005, 109.23836353340741",
+        "link": "https://maps.app.goo.gl/bkW4Kij7Xzj3oZVTA"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Telaga Anteng",
+        "coordinate": "-7.542591525151846, 109.22048369374248",
+        "link": "https://maps.app.goo.gl/UNeZSYsybgNskYWA6"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Watu Meja",
+        "coordinate": "-7.518122175965632, 109.21440811962728",
+        "link": "https://maps.app.goo.gl/fQxSZzDFwdnGM8TK6"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 13,
+    "kecamatan": "Patikraja",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Taman Patikraja",
+        "coordinate": "-7.484419901764792, 109.2233768779818",
+        "link": "https://maps.app.goo.gl/Ke2ARW61kiGMiHwP9"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Terowongan Notog",
+        "coordinate": "-7.495522145325008, 109.2155769799068",
+        "link": "https://maps.app.goo.gl/z7RRjHcTDik6THxm6"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Wisata Gunung Pencit",
+        "coordinate": "-7.478674790750145, 109.16985645664181",
+        "link": "https://maps.app.goo.gl/Lg77CyRGBdQsXT6E7"
+      },
+      {
+        "id": 4,
+        "nama": "Curug Macan",
+        "coordinate": "-7.48209681202436, 109.24333180632553",
+        "link": "https://maps.app.goo.gl/2sWvj6DTowPUjMeL9"
+      },
+      {
+        "id": 5,
+        "nama": "Bukit Cikawak",
+        "coordinate": "-7.470560533755986, 109.1904638745936",
+        "link": "https://maps.app.goo.gl/GVtiZaJmsFbPMStc9"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 14,
+    "kecamatan": "Jatilawang",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Puncak Wadas Tumbang",
+        "coordinate": "-7.570001371714343, 109.08547651530141",
+        "link": "https://maps.app.goo.gl/VW3441HA43vYW97q8"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Bukit Gajah Selo",
+        "coordinate": "-7.505744046154804, 109.1055224106854",
+        "link": "https://maps.app.goo.gl/43Eo4ApzfKLuugUe9"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Alun-alun Jatilawang",
+        "coordinate": "-7.529304461588213, 109.13255987584928",
+        "link": "https://maps.app.goo.gl/24tMv3Mz5P9ojqhA9"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 15,
+    "kecamatan": "Rawalo",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Dermaga Perahu Apung Tambaknegara",
+        "coordinate": "-7.514225699226784, 109.21074121321558",
+        "link": "https://maps.app.goo.gl/zRuTfJ8XUxMjshto8"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Pemandian Tirta Husada Kalibacin",
+        "coordinate": "-7.519501470949276, 109.20044153053485",
+        "link": "https://maps.app.goo.gl/RkkqGAix8vpAqHNC8"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Newa Fun Education",
+        "coordinate": "-7.522394608866295, 109.21194284286167",
+        "link": "https://maps.app.goo.gl/xpD4HLDysdYhcrmd6"
+      },
+      {
+        "id": 4,
+        "nama": "Curug Pasekan",
+        "coordinate": "-7.500440315927474, 109.18379037686762",
+        "link": "https://maps.app.goo.gl/EHhs3t3MEZt5tVfE9"
+      },
+      {
+        "id": 5,
+        "nama": "Puncak Cikendang",
+        "coordinate": "-7.510991867183416, 109.12437555211605",
+        "link": "https://maps.app.goo.gl/wywXgTpWzJ1ZNgjMA"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 16,
+    "kecamatan": "Purwojati",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Bukit Karang Kitri",
+        "coordinate": "-7.4993954504683495, 109.13188861880653",
+        "link": "https://maps.app.goo.gl/xaKSDqbhdhnSwXLE6"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Wisata Binker",
+        "coordinate": "-7.473485136907353, 109.08479149478539",
+        "link": "https://maps.app.goo.gl/QYYLvvs8xKuUjN928"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "",
+        "coordinate": "-7.489039632624727, 109.12209784718753",
+        "link": "https://maps.app.goo.gl/CX7tB1Y9dkgZmmhZ9"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 17,
+    "kecamatan": "Wangon",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Alun-alun Wangon",
+        "coordinate": "-7.515013586496068, 109.05180150752261",
+        "link": "https://maps.app.goo.gl/sT2khdVHrvvHk3Vf9"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Masjid Saka Tunggal",
+        "coordinate": "-7.471110058420536, 109.05735663634796",
+        "link": "https://maps.app.goo.gl/Mcabqi9wijWoQUSu7"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Cikakak",
+        "coordinate": "-7.468310546197612, 109.05708681817399",
+        "link": "https://maps.app.goo.gl/JxpYiPw611yBMzEdA"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 18,
+    "kecamatan": "Lumbir",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Bukit Kejabing",
+        "coordinate": "-7.4623609848208705, 108.91352996368603",
+        "link": "https://maps.app.goo.gl/KnC7buyDErEENwqE9"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Wanasuta",
+        "coordinate": "-7.4199231735631725, 108.96447011526742",
+        "link": "https://maps.app.goo.gl/8K15jjoXRA93QiZR6"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Lembu Benggolo Farm & Resort",
+        "coordinate": "-7.441528751027628, 108.93814695094882",
+        "link": "https://maps.app.goo.gl/WGvEDKYerbYqpZ3i8"
+      },
+      {
+        "id": 4,
+        "nama": "Wisata Gunung Batur",
+        "coordinate": "-7.464141679397643, 109.0236383399982",
+        "link": "https://maps.app.goo.gl/mjVPL62CmK8MHwFf7"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 19,
+    "kecamatan": "Sumpiuh",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Bukit Pengaritan",
+        "coordinate": "-7.575836749787253, 109.37736035638561",
+        "link": "https://maps.app.goo.gl/VLRTUjVsLgn5r5wj9"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Taman Wisata Sentana",
+        "coordinate": "-7.5829835356755595, 109.37504292778245",
+        "link": "https://maps.app.goo.gl/XgVNsuLbwzUsPUkn8"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Taman Sumpiuh",
+        "coordinate": "-7.612344735464433, 109.35715107469221",
+        "link": "https://maps.app.goo.gl/dGSM5vQuLyMtohGp8"
+      },
+      {
+        "id": 4,
+        "nama": "Agrowisata Candimas",
+        "coordinate": "-7.562813417788647, 109.35848185350056",
+        "link": "https://maps.app.goo.gl/1pSgw2ZX1Bvof4Eb7"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 20,
+    "kecamatan": "Tambak",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Mawur",
+        "coordinate": "-7.553136594927482, 109.40815899113521",
+        "link": "https://maps.app.goo.gl/xuq62JVTqqBbUqKd7"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Situs Watuagung",
+        "coordinate": "-7.587646423246708, 109.41179857046502",
+        "link": "https://maps.app.goo.gl/eMbB1edtEWuyBoHW9"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Sate Bebek Pak Encus",
+        "coordinate": "-7.612178537230465, 109.4124894931655",
+        "link": "https://maps.app.goo.gl/12GZzmfwT93YSpeZ8"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 21,
+    "kecamatan": "Kemranjen",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Durian Bawor",
+        "coordinate": "-7.582084025198703, 109.31314032089239",
+        "link": "https://maps.app.goo.gl/9ygm9bzsoG3Wyc4JA"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Agro Tunggul Mas",
+        "coordinate": "-7.553720257328034, 109.35144365720635",
+        "link": "https://maps.app.goo.gl/8BbvHrjwnfDgUVVU6"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Minem",
+        "coordinate": "-7.553741528790494, 109.35161531858435",
+        "link": "https://maps.app.goo.gl/8BbvHrjwnfDgUVVU6"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 22,
+    "kecamatan": "Ajibarang",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Dreamland Water Park",
+        "coordinate": "-7.421187349819421, 109.07444482841498",
+        "link": "https://maps.app.goo.gl/gUFVMJP59Y5mSL3W7"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Kebun Lebah Prawita Garden",
+        "coordinate": "-7.418708890842148, 109.04335820428278",
+        "link": "https://maps.app.goo.gl/aoXe89dW5DD7LBLj6"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Kolam Renang Fatmaba",
+        "coordinate": "-7.398218199714573, 109.07964728228114",
+        "link": "https://maps.app.goo.gl/jkqfB3jEnteFfhs87"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 23,
+    "kecamatan": "Pekuncen",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Nangga",
+        "coordinate": "-7.3614390232738005, 109.04860589519578",
+        "link": "https://maps.app.goo.gl/13eG2QjnPuJ1akYM6"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Wisata Alam Bunton",
+        "coordinate": "-7.338817455178473, 109.09946647677806",
+        "link": "https://maps.app.goo.gl/S1wWsj2hd7d95eAp9"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Peternakan Menggala",
+        "coordinate": "-7.34617946179656, 109.11938767579069",
+        "link": "https://maps.app.goo.gl/QFWTSfH2o36KFHa17"
+      },
+      {
+        "id": 4,
+        "nama": "Wisata Watu Kumpul",
+        "coordinate": "-7.382271542373523, 109.04589515303466",
+        "link": "https://maps.app.goo.gl/dE1HSxjXyDYMPquK6"
+      },
+      {
+        "id": 5,
+        "nama": "Curug Kedung Lesung",
+        "coordinate": "-7.332984131337706, 109.10899662007164",
+        "link": "https://maps.app.goo.gl/SW6V7o7VyWDg8gjx5"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 24,
+    "kecamatan": "Gumelar",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Senthong",
+        "coordinate": "-7.341664423204088, 109.03177124491349",
+        "link": "https://maps.app.goo.gl/4fUfpMTYUws3VRsS7"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Wisata Alam Curug Mbulu Kuning",
+        "coordinate": "-7.3642225375270645, 109.00722371567778",
+        "link": "https://maps.app.goo.gl/pduuxAW3nRoXiYfFA"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Patraguna",
+        "coordinate": "-7.332731711837984, 109.02706461354717",
+        "link": "https://maps.app.goo.gl/64EUr7a6n6wJfYjD6"
+      },
+      {
+        "id": 4,
+        "nama": "Puncak Sujen",
+        "coordinate": "-7.3349579791471005, 109.02379135373353",
+        "link": "https://maps.app.goo.gl/V1HHYF4kmtn8XxTj8"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 25,
+    "kecamatan": "Cilongok",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Curug Cipendok",
+        "coordinate": "-7.336749688256, 109.13733745355614",
+        "link": "https://maps.app.goo.gl/r2ikhDJbGnBqD3qc6"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Telaga Kumpe",
+        "coordinate": "-7.350069017119609, 109.14731856733626",
+        "link": "https://maps.app.goo.gl/uAm83Lz1avpa2Nub8"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Wisata Pereng",
+        "coordinate": "-7.401822992808186, 109.14288601545559",
+        "link": "https://maps.app.goo.gl/jmf7BgTzhdVyj5XV7"
+      },
+      {
+        "id": 4,
+        "nama": "Wisata Mina Padi",
+        "coordinate": "-7.382937249752824, 109.12774165031628",
+        "link": "https://maps.app.goo.gl/Dg7gUHxxJZebZ8n56"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 26,
+    "kecamatan": "Purwokerto Utara",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Taman Mas Kemambang",
+        "coordinate": "-7.411831472968135, 109.23811999021414",
+        "link": "https://maps.app.goo.gl/GasoxtFLfJarsoRj9"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Padang Golf Wijayakusuma",
+        "coordinate": "-7.413491947198607, 109.24789203607024",
+        "link": "https://maps.app.goo.gl/rYVKJ97CEbrTZNky5"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Kampung Pelangi",
+        "coordinate": "-7.426366756263912, 109.23386368413404",
+        "link": "https://maps.app.goo.gl/vdY6gxdK81MQAp9CA"
+      },
+      {
+        "id": 4,
+        "nama": "Taman Tesda",
+        "coordinate": "-7.426366756263912, 109.23391732831466",
+        "link": "https://maps.app.goo.gl/EjBPxUY7MTV9TXwGA"
       }
     ]
   },
   {
-    "id": 1,
-    "kecamatan": "Purwokerto Barat",
+    "id": 27,
+    "kecamatan": "Purwokerto Selatan",
     "lokasi": [
       {
         "id": 1,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Taman Andhang Pangrenan",
+        "coordinate": "-7.43877863771415, 109.24429202673952",
+        "link": "https://maps.app.goo.gl/EtUBz1V3hpnZEZtaA"
       },
       {
         "id": 2,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Satria Park",
+        "coordinate": "-7.438804128359247, 109.26831952437597",
+        "link": "https://maps.app.goo.gl/FT2qpKS55tu2bmug9"
       },
       {
         "id": 3,
-        "nama": "Museum Jenderal Sudirman",
-        "coordinate": "-7.419747236128376,109.19624539325419",
-        "link": "https://maps.app.goo.gl/6F9FMmkuwsWUVoTv8"
+        "nama": "Rajawali Sinema",
+        "coordinate": "-7.432378457561921, 109.24525643810054",
+        "link": "https://maps.app.goo.gl/SodSPYh5Mt3TgTkz8"
       }
     ]
   }
